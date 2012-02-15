@@ -1,3 +1,4 @@
+===================
 Christines Dotfiles
 ===================
 
@@ -8,6 +9,9 @@ This are my dotfiles.
 
 **github**
     Github config
+
+**zsh**
+    added the zsh config file
 
 Changelog
 =========
